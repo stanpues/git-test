@@ -1,2 +1,4 @@
 commitTest
 extra info
+
+GIT test2 aanpassing in master
